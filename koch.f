@@ -1,11 +1,11 @@
-C     ------------------------------------------------------------------
+C     -----------------------------------------------------------------
 C     Programa Kock
 C     Versao Beta: 2004
 C     Autor: Marcello Pojucan Magaldi Santos e Raul Oscar Vallejos
 C     Licenca:
 C     O usu†rio pode usar desde que n∆o seja para fins lucrativos. Pode
 C     alterar o c¢digo fonte, desde que comunique previamente o autor.
-C     ------------------------------------------------------------------
+C     -----------------------------------------------------------------
       Program KOCK
       implicit none
 c
